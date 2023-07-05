@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @xMKWYx
-- 👀 I’m interested in FiveM
+- 👀 I’m interested in FiveM Development
 - 🌱 I’m currently learning Extended Math
