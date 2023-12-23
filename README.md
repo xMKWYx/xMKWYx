@@ -31,4 +31,4 @@ server!**
 > - And a lot more!
 
 **Ping:** ||@everyone||
-**InvLnk:** 
+**InvLnk:** https://discord.gg/WcZ5rVfERJ
