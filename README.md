@@ -4,8 +4,7 @@
 
 **[PL] Czy chciałbyś stworzyć swój własny serwer Role Play?
 Trafiłeś we właściwe miejsce!
-Dołącz do nas teraz, a znajdziesz wszystko, czego potrzebujesz, aby stworzyć swój ulubiony
-serwer!**
+Dołącz do nas teraz, a znajdziesz wszystko, czego potrzebujesz, aby stworzyć swój serwer!**
 
 > **Oferujemy:**
 > - Doświadczonych developerów
